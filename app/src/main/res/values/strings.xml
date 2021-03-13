@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Drawable to Bitmap</string>
+    <string name="see_drawable_images">See Drawable Image</string>
+    <string name="imgDesc">helo</string>
+    <string name="btnmsg2">Images</string>
+    <string name="btnmsg1">Images 1</string>
+    <string name="drawable">Drawable Images</string>
+    <string name="assets">Asset Images</string>
+</resources>

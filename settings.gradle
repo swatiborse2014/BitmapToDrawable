@@ -1,0 +1,3 @@
+include ':DrawableToBitmap'
+include ':app'
+rootProject.name = "My Drawable to Bitmap"
